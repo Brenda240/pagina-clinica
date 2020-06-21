@@ -1,0 +1,28 @@
+body {
+    background-image: url('../images/fondo.png');
+}
+
+.navbar {
+    background-color: #19cccf;
+    color: black;
+}
+
+.navbar-brand:link, .navbar-brand:visited {
+    color: black !important;
+}
+
+.navbar-brand:hover, .navbar-brand:active {
+    color: #a3a8a8 !important;
+}
+
+#navbar li a:link, #navbar li a:visited {
+    color: white !important;
+}
+
+#navbar li a:hover, #navbar li a:active {
+    color: #122da3 !important;
+}
+.dropdown-menu{
+    background-color: #101010; 
+}
+
